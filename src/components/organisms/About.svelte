@@ -23,7 +23,7 @@
 	<div class="text">
 		<h2>bio</h2>
 		<p>
-			Hey there, I'm Con! :] I'm a <Tooltip tip={age}
+			Hey there, I'm Connor! :] I'm a <Tooltip tip={age}
 				><span>{Math.floor(Number(age))}</span></Tooltip
 			>
 			year old college student based in the United Kingdom. I’ve taken Ethical Hacking seriously since
