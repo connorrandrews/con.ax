@@ -26,7 +26,7 @@
 			Hey there, I'm Con! :] I'm a <Tooltip tip={age}
 				><span>{Math.floor(Number(age))}</span></Tooltip
 			>
-			year old college student based in the United Kingdom. I’ve taken Ethical HAcking seriously since
+			year old college student based in the United Kingdom. I’ve taken Ethical Hacking seriously since
 			<span>2020</span>, and have been grinding in kali since <span>2021</span>.
 			Recently, however, I’ve grown a knack for programming. My stuff is at
 			<Tooltip tip="🤓">
@@ -34,8 +34,7 @@
 					<span>open source</span>
 				</a>
 			</Tooltip>
-			as a web developer, which is probably the reason why you've ended up here. Currently struggling
-			with Svelte and Typescript.
+			I understand Base C (QMK) and Python.
 		</p>
 	</div>
 </section>
