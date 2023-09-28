@@ -29,9 +29,9 @@
 			year old college student based in the United Kingdom. I’ve taken Ethical Hacking seriously since
 			<span>2020</span>, and have been grinding in kali since <span>2021</span>.
 			Recently, however, I’ve grown a knack for programming. My stuff is at
-			<Tooltip tip="🤓">
+			<Tooltip tip="connorrandrews">
 				<a href="https://github.com/connorrandrews" target="_blank" rel="noreferrer">
-					<span>open source</span>
+					<span>Github</span>
 				</a>
 			</Tooltip>
 			I understand Base C (QMK) and Python.
